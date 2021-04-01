@@ -30,3 +30,16 @@ Have to say, `王者荣耀` is my favorite mobile game.
 
 
 This is another file in this folder [Direct link to another file](README.md)
+
+
+My favorite fruits
+- Apple
+- Orange
+- Watermelon
+
+
+My plan for this quarter
+- [x] Have 5 courses
+- [x] Push my commits to GitHub
+- [ ] Practice leetcode problems
+- [ ] Find an internship chance
