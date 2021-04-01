@@ -29,3 +29,4 @@ Have to say, `王者荣耀` is my favorite mobile game.
 
 
 
+This is another file in this folder [Direct link to another file](README.md)
