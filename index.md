@@ -1,5 +1,5 @@
 
-(WechatIMG264.jpeg)
+![Test Image 1](WechatIMG264.jpeg)
 
 # This is Xun Zhu's Home Page
 
