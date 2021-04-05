@@ -5,4 +5,4 @@
 
 My favourite programming language is don't know yet
 
-https://x1zhu.github.io/Lab1/
+https://x1zhu.github.io/CSE110-Lab1/
